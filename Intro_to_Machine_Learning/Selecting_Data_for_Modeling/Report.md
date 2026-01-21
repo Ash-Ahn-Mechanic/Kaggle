@@ -1,5 +1,5 @@
 
-# Selecting Data for Modeling (해석 및 정리)
+# Course3: Selecting Data for Modeling (해석 및 정리)
 
 ## 1. 문제 인식
 데이터셋에 변수가 너무 많으면 한 번에 이해하거나 출력하기 어렵다.  
