@@ -1,4 +1,4 @@
-# Basic Data Exploration (해석 및 정리)
+# Course 2: Basic Data Exploration (해석 및 정리)
 
 
 ## 1. 서론
