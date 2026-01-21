@@ -1,4 +1,4 @@
-# Basic Data Exploration (Code)
+# Course 2: Basic Data Exploration (Code)
 
 ## Step 1: Loading Data
 
