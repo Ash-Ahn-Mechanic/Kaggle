@@ -1,4 +1,4 @@
-# Course 2: Explore Your Data (Practice)
+# Basic Data Exploration (Code)
 
 ## Step 1: Loading Data
 
@@ -13,8 +13,6 @@ iowa_file_path = '../input/home-data-for-ml-course/train.csv'
 # Read the file into a variable home_data
 home_data = pd.read_csv(iowa_file_path)
 
-# Check that you've loaded the data correctly
-step_1.check()
 ```
 
 ---
@@ -44,8 +42,3 @@ avg_lot_size = 10517
 newest_home_age = 16
 ```
 
-### Check answers
-
-```python
-step_2.check()
-```
