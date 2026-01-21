@@ -1,4 +1,4 @@
-# Course 3: Model Building (Exercises)
+# Course 3: Selecting Data for Modeling (Code)
 
 ## Step 1: Specify Prediction Target
 
