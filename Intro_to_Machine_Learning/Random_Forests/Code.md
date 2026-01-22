@@ -1,4 +1,4 @@
-# Course 5: Random Forest (Exercises)
+# Course 6: Random Forest (Code)
 
 ## Step 1: Use a Random Forest
 
@@ -9,7 +9,6 @@
 
 ## 코드
 
-![Step 1 - Use a Random Forest](images/course5_step1_use_random_forest.png)
 
 ```python
 from sklearn.ensemble import RandomForestRegressor
@@ -78,10 +77,3 @@ print("Validation MAE for Random Forest Model: {}".format(rf_val_mae))
 - 별도의 깊이 튜닝 없이도 성능이 잘 나오는 것이 장점이다.
 - Validation MAE로 모델 성능을 비교하며 발전시키는 흐름이 중요하다.
 
----
-
-## 이미지 파일 경로 규칙
-
-md에서 이미지를 보이게 하려면 아래 파일을 `images/` 폴더에 저장해야 한다.
-
-- `images/course5_step1_use_random_forest.png`
