@@ -1,4 +1,4 @@
-# Course 4: Model Tuning with max_leaf_nodes (Exercises)
+# Course 5: Underfitting and Overfitting (Code)
 
 본 문서는 **Course 4 (Model Validation & Tuning)** 의  
 `max_leaf_nodes`를 활용한 **코드 문제 풀이 전체 흐름**을 정리한 md 파일이다.
