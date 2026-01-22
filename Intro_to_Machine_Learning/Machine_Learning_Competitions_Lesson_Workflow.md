@@ -1,4 +1,4 @@
-# Course 5: End-to-End Random Forest Workflow (Kaggle Submission)
+# Course 7: Machine Learning Competitions (Lesson Work Flow)
 
 본 문서는 **Course 5 전체 Lesson의 코드 흐름**을  
 데이터 로딩 → 모델 검증 → 전체 학습 → 예측 → 제출 파일 생성  
