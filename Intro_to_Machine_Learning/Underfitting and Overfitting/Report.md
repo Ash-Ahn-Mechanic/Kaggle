@@ -1,4 +1,4 @@
-# Course 4: Underfitting and Overfitting (Model Tuning)
+# Course 5: Underfitting and Overfitting (Report)
 
 ## 학습 목표
 이 단계의 목표는 **과소적합(Underfitting)** 과 **과적합(Overfitting)** 의 개념을 이해하고,  
