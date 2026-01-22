@@ -10,7 +10,6 @@
 각 트리 크기(`max_leaf_nodes`)에 대해  
 Validation MAE를 계산하기 위한 함수가 이미 제공된다.
 
-![get_mae 함수](images/course4_ex_get_mae.png)
 
 ```python
 def get_mae(max_leaf_nodes, train_X, val_X, train_y, val_y):
@@ -30,7 +29,6 @@ def get_mae(max_leaf_nodes, train_X, val_X, train_y, val_y):
 
 여러 후보 트리 크기 중 **Validation MAE가 가장 작은 값**을 찾는다.
 
-![Step 1 - Compare Tree Sizes](images/course4_ex_step1_compare.png)
 
 ```python
 candidate_max_leaf_nodes = [5, 25, 50, 100, 250, 500]
@@ -50,9 +48,8 @@ step_1.check()
 
 ---
 
-## Step 1 (Solution): Dictionary Comprehension
+> ### Step 1 (Solution): Dictionary Comprehension
 
-![Step 1 - Solution](images/course4_ex_step1_solution.png)
 
 ```python
 scores = {
@@ -67,7 +64,6 @@ best_tree_size = min(scores, key=scores.get)
 
 ## Step 2: Fit Model Using All Data
 
-![Step 2 - Final Model](images/course4_ex_step2_final_model.png)
 
 ```python
 final_model = DecisionTreeRegressor(
@@ -87,11 +83,3 @@ step_2.check()
 - `max_leaf_nodes`는 과소/과적합을 제어하는 핵심 파라미터
 - 모델 선택 후 전체 데이터로 재학습하여 최종 모델 생성
 
----
-
-## 이미지 파일 목록
-
-- images/course4_ex_get_mae.png  
-- images/course4_ex_step1_compare.png  
-- images/course4_ex_step1_solution.png  
-- images/course4_ex_step2_final_model.png  
