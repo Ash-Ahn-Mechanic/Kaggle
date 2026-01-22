@@ -1,4 +1,4 @@
-# Course 5: Random Forests (Introduction & Example)
+# Course 6: Random Forests (Report)
 
 ## 1. Introduction: 왜 Random Forest인가?
 
